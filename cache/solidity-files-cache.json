@@ -1,0 +1,182 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/Users/alexaviles/Desktop/Work/Hacks/ReentrancyFiles/Reentrancy_Code/Reentrancy/contracts/AttackPreventReentrancy.sol": {
+      "lastModificationDate": 1638476738444,
+      "contentHash": "d6ecf0c316857dbe2feeba6e472ca401",
+      "sourceName": "contracts/AttackPreventReentrancy.sol",
+      "solcConfig": {
+        "version": "0.6.10",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.6.10"
+      ],
+      "artifacts": [
+        "AttackPreventReentrancy",
+        "PreventReentrancyClone"
+      ]
+    },
+    "/Users/alexaviles/Desktop/Work/Hacks/ReentrancyFiles/Reentrancy_Code/Reentrancy/contracts/AttackVulnerableToReentrancy.sol": {
+      "lastModificationDate": 1638414664649,
+      "contentHash": "4406610f31f4a92585503374926eec31",
+      "sourceName": "contracts/AttackVulnerableToReentrancy.sol",
+      "solcConfig": {
+        "version": "0.6.10",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.6.10"
+      ],
+      "artifacts": [
+        "AttackVulnerableToReentrancy",
+        "VulnerableToReentrancyClone"
+      ]
+    },
+    "/Users/alexaviles/Desktop/Work/Hacks/ReentrancyFiles/Reentrancy_Code/Reentrancy/contracts/PreventReentrancy.sol": {
+      "lastModificationDate": 1638382082503,
+      "contentHash": "d3b82b0ade2d0741628cf0345863f866",
+      "sourceName": "contracts/PreventReentrancy.sol",
+      "solcConfig": {
+        "version": "0.6.10",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.6.10"
+      ],
+      "artifacts": [
+        "PreventReentrancy"
+      ]
+    },
+    "/Users/alexaviles/Desktop/Work/Hacks/ReentrancyFiles/Reentrancy_Code/Reentrancy/contracts/VulnerableToReentrancy.sol": {
+      "lastModificationDate": 1638414674100,
+      "contentHash": "7a27025a5471de8a54438cb1d22fc527",
+      "sourceName": "contracts/VulnerableToReentrancy.sol",
+      "solcConfig": {
+        "version": "0.6.10",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.6.10"
+      ],
+      "artifacts": [
+        "VulnerableToReentrancy"
+      ]
+    },
+    "/Users/alexaviles/Desktop/Work/Hacks/ReentrancyFiles/Reentrancy_Code/Reentrancy/node_modules/hardhat/console.sol": {
+      "lastModificationDate": 1638295384713,
+      "contentHash": "cc4777addd464ea56fa35b1c45df0591",
+      "sourceName": "hardhat/console.sol",
+      "solcConfig": {
+        "version": "0.6.10",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.4.22 <0.9.0"
+      ],
+      "artifacts": [
+        "console"
+      ]
+    }
+  }
+}
